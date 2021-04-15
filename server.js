@@ -37,9 +37,3 @@ app.use((req, res) => {
 app.listen(8000, () => {
     console.log('Server is running...');
 });
-
-
-// if i write stupid comment that github show me that main language is javascript???????
-//maybe i must write something moreee..............
-//so is it enough????
-//yes! it is working!!
